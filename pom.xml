@@ -31,6 +31,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>flipkart_app</finalName>
+    <finalName>flipkart</finalName>
   </build>
 </project>
